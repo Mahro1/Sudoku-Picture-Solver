@@ -18,7 +18,7 @@ Program takes a photo of a Sudoku puzzle as an input and returns it with empty c
 3. Run main.py with python (more details at [Example Usage](#example-usage))
 
 ## Example Usage
-python main.py "Sudoku Images/sudoku1.jpg" debug
+*python main.py "Sudoku Images/sudoku1.jpg" debug*
 
 Program has one mandatory parameter (path to image) and one optional (debug)
 
