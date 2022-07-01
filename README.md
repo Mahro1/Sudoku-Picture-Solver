@@ -13,7 +13,7 @@ Program takes a photo of a Sudoku puzzle as an input and returns it with empty c
 ![Sample input and it's corresponding output](https://i.imgur.com/QHBbkJ0.jpg)
 
 ## Setup
-1. Clone the repository
+1. Clone the repository and unpack it
 2. Install requirements with "pip install -r requirements.txt"
 3. Run main.py with python (more details at [Example Usage](#example-usage))
 
