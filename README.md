@@ -1,4 +1,5 @@
 # Sudoku Picture Solver
+Automatic Sudoku from picture solver using OpenCV, Machine Learning (CNN) and some logic with recursion.
 ## Table of contents
 * [General info](#general-info)
 * [Illustration](#illustration)
